@@ -4,7 +4,7 @@
 - https://c9.io/new
 
 ### Fill out UI
-- Name: <Whatever you want>
+- Name: -Whatever you want-
 - Public
 - Template: Blank
 
