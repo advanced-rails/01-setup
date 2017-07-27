@@ -14,7 +14,7 @@ rvm install 2.4.1
 rvm use 2.4.1
 rvm gemset create alpha
 rvm use 2.4.1@alpha --default
-gem install rails pry pry-byebug rspec
+gem install rails pry pry-byebug rspec httparty
 ```
 
 ### Config Files
