@@ -1,4 +1,4 @@
-# 01-setup
+# setup
 
 ### Start Here
 - https://c9.io/new
@@ -29,13 +29,18 @@ wget https://raw.githubusercontent.com/chyld/devops/master/dotfiles/c9/.gitconfi
 - Edit the `~/.gitconfig` file in your home directory
 - Close all Terminal windows and reopen
 
+# database
+
 ### Postgres Setup
 - `sudo service postgresql start`
 - `psql`
 
+# new app
 
-
-rails new APP_NAME -d postgresql --skip-action-mailer --skip-action-cable --skip-coffee --skip-test --skip-system-test
+- `rails new APP_NAME -d postgresql --skip-action-mailer --skip-action-cable --skip-coffee --skip-test --skip-system-test`
+- edit Gemfile
+```
 gem 'pry'
 gem 'pry-byebug'
 bundle install
+```
