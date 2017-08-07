@@ -43,6 +43,7 @@ wget https://raw.githubusercontent.com/chyld/devops/master/dotfiles/c9/.gitconfi
 gem 'pry'
 gem 'pry-byebug'
 gem 'pry-rails'
+gem 'faker'
 bundle install
 ```
 
