@@ -44,3 +44,13 @@ gem 'pry'
 gem 'pry-byebug'
 bundle install
 ```
+
+
+
+
+
+
+http://guides.rubyonrails.org/active_record_migrations.html
+http://api.rubyonrails.org/v5.1.3/classes/ActiveRecord/ConnectionAdapters/Table.html
+http://api.rubyonrails.org/v5.1.3/classes/ActiveRecord/ConnectionAdapters/TableDefinition.html
+http://api.rubyonrails.org/v5.1.3/classes/ActiveRecord/ConnectionAdapters/SchemaStatements.html
