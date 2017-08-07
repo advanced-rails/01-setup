@@ -32,3 +32,10 @@ wget https://raw.githubusercontent.com/chyld/devops/master/dotfiles/c9/.gitconfi
 ### Postgres Setup
 - `sudo service postgresql start`
 - `psql`
+
+
+
+rails new APP_NAME -d postgresql --skip-action-mailer --skip-action-cable --skip-coffee --skip-test --skip-system-test
+gem 'pry'
+gem 'pry-byebug'
+bundle install
