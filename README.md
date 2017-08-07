@@ -28,3 +28,7 @@ wget https://raw.githubusercontent.com/chyld/devops/master/dotfiles/c9/.gitconfi
 ### Final
 - Edit the `~/.gitconfig` file in your home directory
 - Close all Terminal windows and reopen
+
+### Postgres Setup
+- `sudo service postgresql start`
+- `psql`
