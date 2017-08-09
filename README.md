@@ -44,16 +44,12 @@ gem 'pry'
 gem 'pry-byebug'
 gem 'pry-rails'
 gem 'faker'
-bundle install
 ```
+`bundle install`
 
-
-
-
-
-
-http://guides.rubyonrails.org/active_record_migrations.html
-http://api.rubyonrails.org/v5.1.3/classes/ActiveRecord/ConnectionAdapters/Table.html
-http://api.rubyonrails.org/v5.1.3/classes/ActiveRecord/ConnectionAdapters/TableDefinition.html
-http://api.rubyonrails.org/v5.1.3/classes/ActiveRecord/ConnectionAdapters/SchemaStatements.html
-https://github.com/stympy/faker
+# links
+- http://guides.rubyonrails.org/active_record_migrations.html
+- http://api.rubyonrails.org/v5.1.3/classes/ActiveRecord/ConnectionAdapters/Table.html
+- http://api.rubyonrails.org/v5.1.3/classes/ActiveRecord/ConnectionAdapters/TableDefinition.html
+- http://api.rubyonrails.org/v5.1.3/classes/ActiveRecord/ConnectionAdapters/SchemaStatements.html
+- https://github.com/stympy/faker
